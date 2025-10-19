@@ -1,0 +1,28 @@
+mkdir notes-backend
+cd notes-backend
+npm init -y
+
+This create :-
+    notes-backend/
+     ├── package.json
+
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+npm install express mongoose cors
+
+npm install --save-dev nodemon  
+    
+    express → framework for creating backend routes.
+
+    mongoose → connect and interact with MongoDB.
+
+    cors → allows frontend (running on another port) to talk to backend.
+
+    nodemon → automatically restarts server when code changes.
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
